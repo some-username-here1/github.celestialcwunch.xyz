@@ -1,2 +1,2 @@
-# github.celestialcwunch.xyz
-Default web page for my github pages
+# Hello!
+Default web page for my github pages, linked [here](https://github.celestialcwunch.xyz/).
